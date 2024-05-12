@@ -6,7 +6,7 @@ const Card = (props) => {
                 <div class="card-body">
                     <h5 class="card-title">{props.title}</h5>
                     <p class="card-text">Price: {props.price}$</p>
-                    <a href="/" class="btn btn-primary">
+                    <a href="#" class="btn btn-primary">
                         Go somewhere
                     </a>
                 </div>
