@@ -1,0 +1,13 @@
+.banner-block {
+    background: url(../../assets/images/sarah-sheedy-Ci2B9T03XzE-unsplash.jpg) center/cover;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 100px;
+    text-shadow: 3px 3px 15px gray;
+}
+
+button {
+    width: 200px;
+}

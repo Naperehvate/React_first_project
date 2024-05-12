@@ -1,5 +1,5 @@
 import logo from "./logo.svg"
- 
+
 const Menu = () => {
     return (
         <>
@@ -9,7 +9,7 @@ const Menu = () => {
         </>
     )
 }
- 
+
 const Header = () => {
     return (
         <header className="fixed-top bg-dark mb-5">
@@ -22,5 +22,5 @@ const Header = () => {
         </header>
     )
 }
- 
+
 export default Header;
